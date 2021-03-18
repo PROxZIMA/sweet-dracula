@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+Readme Updates with configuration (which suits the theme)
+
 ## 1.0.0
 
 Initial release!
