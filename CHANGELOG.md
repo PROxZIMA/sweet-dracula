@@ -1,8 +1,12 @@
 # Changelog
 
+## 1.0.2
+
+Fixed [`findMatchBackground`](https://github.com/PROxZIMA/sweet-dracula/pull/1)
+
 ## 1.0.1
 
-Readme Updates with configuration (which suits the theme)
+Readme updated with some configuration (which suits the theme)
 
 ## 1.0.0
 
