@@ -1,6 +1,6 @@
-# Sweet Dracula for [Visual Studio Code](http://code.visualstudio.com)
+# Sweet Dracula for [VSCode](https://code.visualstudio.com/) and [Code - OSS](https://github.com/microsoft/vscode)
 
-> A sweet dark theme for [Visual Studio Code](http://code.visualstudio.com).
+> A sweet dark theme for [VSCode](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula) and [Code - OSS](https://open-vsx.org/extension/PROxZIMA/sweetdracula).
 
 Sweet Dracula — A beautiful, darker - [Dracula](https://github.com/dracula/visual-studio-code) fork.
 
@@ -19,7 +19,7 @@ Sweet Dracula — A beautiful, darker - [Dracula](https://github.com/dracula/vi
 
 ## Recommended settings
 
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
 - `"editor.renderLineHighlight": "gutter"`
 - `"editor.occurrencesHighlight": false`
 - `"editor.selectionHighlight": false`
