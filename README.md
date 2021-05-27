@@ -1,8 +1,10 @@
-# Sweet Dracula for [VSCode](https://code.visualstudio.com/) and [Code - OSS](https://github.com/microsoft/vscode)
+# Sweet Dracula
 
-> A sweet dark theme for [VSCode](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula) and [Code - OSS](https://open-vsx.org/extension/PROxZIMA/sweetdracula).
+[![version](https://vsmarketplacebadge.apphb.com/version-short/PROxZIMA.sweetdracula.svg)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
+[![downloads](https://vsmarketplacebadge.apphb.com/downloads-short/PROxZIMA.sweetdracula.svg)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
+[![rating](https://vsmarketplacebadge.apphb.com/rating-short/PROxZIMA.sweetdracula.svg)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
 
-Sweet Dracula — A beautiful, darker - [Dracula](https://github.com/dracula/visual-studio-code) fork.
+**Sweet Dracula** — A beautiful, darker - [Dracula](https://github.com/dracula/visual-studio-code) fork for [VSCode](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula) and [Code - OSS](https://open-vsx.org/extension/PROxZIMA/sweetdracula).
 
 ![Screenshot](https://raw.githubusercontent.com/PROxZIMA/sweet-dracula/master/preview.png)
 
