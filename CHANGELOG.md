@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+HTML, CSS textMate scopes added
+
 ## 1.0.3
 
 Added theme to [Code - OSS store](https://open-vsx.org/extension/PROxZIMA/sweetdracula)
