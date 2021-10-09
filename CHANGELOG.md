@@ -2,6 +2,10 @@
 
 ## 1.0.4
 
+Main background color changed from `#0C0E14 -> #11131c`
+
+## 1.0.4
+
 HTML, CSS textMate scopes added
 
 ## 1.0.3
