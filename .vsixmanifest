@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="sweetdracula" Version="1.0.5" Publisher="PROxZIMA"/>
+    <Identity Language="en-US" Id="sweetdracula" Version="1.0.6" Publisher="PROxZIMA"/>
     <DisplayName>Sweet Dracula</DisplayName>
     <Description xml:space="preserve">Sweet Dracula — A beautiful, darker - Dracula fork</Description>
     <Tags>dracula,dark,theme,color-theme</Tags>
@@ -21,7 +21,7 @@
 
       <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/PROxZIMA/sweet-dracula/issues" />
 
-      <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#0c0e14" />
+      <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#11131C" />
       <Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
       <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
 

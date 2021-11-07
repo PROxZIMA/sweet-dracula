@@ -1,6 +1,10 @@
 # Changelog
 
-## 1.0.4
+## 1.0.6
+
+Added `editorBracketPairGuide`
+
+## 1.0.5
 
 Main background color changed from `#0C0E14 -> #11131c`
 
