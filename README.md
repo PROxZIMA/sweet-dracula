@@ -8,11 +8,11 @@
 
 <h3 align="center"><b>VS Code</b></h3>
 
-![VSCode](./assets/vscode.png)
+![VSCode](https://raw.githubusercontent.com/PROxZIMA/sweet-dracula/master/assets/vscode.png)
 
 <h3 align="center"><b>Syntax Highlighting</b></h3>
 
-![Screenshot](./assets/preview.png)
+![Screenshot](https://raw.githubusercontent.com/PROxZIMA/sweet-dracula/master/assets/preview.png)
 
 ---
 
