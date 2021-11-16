@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7
+
+Reduce theme contrast
+
 ## 1.0.6
 
 Added `editorBracketPairGuide`
