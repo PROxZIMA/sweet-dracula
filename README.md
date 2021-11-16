@@ -6,7 +6,13 @@
 
 **Sweet Dracula** — A beautiful, darker - [Dracula](https://github.com/dracula/visual-studio-code) fork for [VSCode](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula) and [Code - OSS](https://open-vsx.org/extension/PROxZIMA/sweetdracula).
 
-![Screenshot](https://raw.githubusercontent.com/PROxZIMA/sweet-dracula/master/preview.png)
+<h3 align="center"><b>VS Code</b></h3>
+
+![VSCode](./assets/vscode.png)
+
+<h3 align="center"><b>Syntax Highlighting</b></h3>
+
+![Screenshot](./assets/preview.png)
 
 ---
 
@@ -21,7 +27,6 @@
 
 ## Recommended settings
 
-- [Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
 - `"editor.renderLineHighlight": "gutter"`
 - `"editor.occurrencesHighlight": false`
 - `"editor.selectionHighlight": false`
