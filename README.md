@@ -25,6 +25,12 @@
 
 ---
 
+## VSCode UI
+
+Above screenshot contains modified VSCode UI. I tweaked it a bit to fit my taste. Complete installation in my [.dotfiles](https://github.com/PROxZIMA/.dotfiles#vscode)
+
+---
+
 ## Recommended settings
 
 - `"editor.renderLineHighlight": "gutter"`
