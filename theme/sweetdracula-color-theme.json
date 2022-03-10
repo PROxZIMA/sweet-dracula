@@ -77,7 +77,7 @@
         "debugToolBar.background": "#161925",
         "debugToolBar.border": "#6272A4",
         "diffEditor.insertedTextBackground": "#50FA7B20",
-        "diffEditor.removedTextBackground": "#FF555550",
+        "diffEditor.removedTextBackground": "#FF555520",
         "dropdown.background": "#232634",
         "dropdown.listBackground": "#232634",
         "dropdown.border": "#6272A4",
@@ -1520,17 +1520,6 @@
             "scope": ["source.shell variable.other"],
             "settings": {
                 "foreground": "#BD93F9"
-            }
-        },
-        {
-            "name": "Shell foreground resets",
-            "scope": [
-                "meta.scope.for-loop.shell punctuation.definition.string.begin",
-                "meta.scope.for-loop.shell punctuation.definition.string.end",
-                "meta.scope.for-loop.shell string"
-            ],
-            "settings": {
-                "foreground": "#F8F8F2"
             }
         },
         {
