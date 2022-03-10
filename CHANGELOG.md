@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.8
+
+Fixed issue [`#2`](https://github.com/PROxZIMA/sweet-dracula/issues/2)
+
 ## 1.0.7
 
 Reduce theme contrast
