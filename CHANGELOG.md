@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.9
+
+- Add: Editor Inlay Hint
+- Add: Dart annotations and String interpolation
+- Fix: DocString foreground same as comments
+
 ## 1.0.8
 
 Fixed issue [`#2`](https://github.com/PROxZIMA/sweet-dracula/issues/2)

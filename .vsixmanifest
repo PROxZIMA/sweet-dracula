@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="sweetdracula" Version="1.0.8" Publisher="PROxZIMA"/>
+    <Identity Language="en-US" Id="sweetdracula" Version="1.0.9" Publisher="PROxZIMA"/>
     <DisplayName>Sweet Dracula</DisplayName>
     <Description xml:space="preserve">Sweet Dracula — A beautiful, darker - Dracula fork</Description>
     <Tags>dracula,dark,theme,color-theme</Tags>
