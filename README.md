@@ -1,8 +1,8 @@
 # Sweet Dracula
 
-[![version](https://vsmarketplacebadge.apphb.com/version-short/PROxZIMA.sweetdracula.svg)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
-[![downloads](https://vsmarketplacebadge.apphb.com/downloads-short/PROxZIMA.sweetdracula.svg)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
-[![rating](https://vsmarketplacebadge.apphb.com/rating-short/PROxZIMA.sweetdracula.svg)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/PROxZIMA.sweetdracula?style=for-the-badge&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/PROxZIMA.sweetdracula?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/PROxZIMA.sweetdracula?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
 
 **Sweet Dracula** — A beautiful, darker - [Dracula](https://github.com/dracula/visual-studio-code) fork for [VSCode](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula) and [Code - OSS](https://open-vsx.org/extension/PROxZIMA/sweetdracula).
 
