@@ -154,6 +154,7 @@
         "tab.border": "#11131C",
         "tab.inactiveBackground": "#11131C",
         "tab.inactiveForeground": "#6272A4",
+        "tab.activeBorderTop": "#DA70D6",
         "editorWidget.background": "#161925",
         "editorWidget.border": "#6272A4",
         "editorWidget.resizeBorder": "#BD93F9",
