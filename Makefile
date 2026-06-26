@@ -2,4 +2,4 @@
 
 
 vscode-release:
-	vsce package && vsce publish
+	npm run publish

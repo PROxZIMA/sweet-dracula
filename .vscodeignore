@@ -1,0 +1,10 @@
+.git/**
+.gitignore
+.github/**
+node_modules/**
+scripts/**
+src/**
+theme/**
+Makefile
+package-lock.json
+*.vsix

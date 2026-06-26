@@ -1,63 +1,14 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Sweet Dracula",
-    "author": "PROxZIMA",
+    "author": "felcadev",
     "maintainers": [
-        "Pratik Pingale <pratikbpingale9075@gmail.com>"
+        "felcadev <pichaosdev@gmail.com>"
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "annotation:dart": "#BD93F9",
         "class:dart": "#8BE9FD",
         "property:dart": "#BD93F9"
-    },
-    "type": "dark",
-    "colorVars": {
-        "base": {
-            "bg": "#161925",
-            "fg": "#F8F8F2",
-            "cyan": "#8BE9FD",
-            "green": "#50FA7B",
-            "orange": "#FFB86C",
-            "pink": "#FF79C6",
-            "purple": "#BD93F9",
-            "red": "#FF5555",
-            "yellow": "#F1FA8C",
-            "white": "#FFFFFF"
-        },
-        "ansi": {
-            "color0": "#44475A",
-            "color1": "#DE312B",
-            "color2": "#2FD651",
-            "color3": "#D0D662",
-            "color4": "#9C6FCF",
-            "color5": "#DE559C",
-            "color6": "#6AC5D3",
-            "color7": "#D7D4C8",
-            "color8": "#656B84",
-            "color9": "#FF5555",
-            "color10": "#50FA7B",
-            "color11": "#F1FA8C",
-            "color12": "#BD93F9",
-            "color13": "#FF79C6",
-            "color14": "#8BE9FD",
-            "color15": "#F8F8F2"
-        },
-        "misc": {
-            "comment": "#6272A4",
-            "activeBorder": "#6272A4",
-            "lineHighlight": "#232634",
-            "container": "#232634",
-            "nonText": "#424450",
-            "tabDropBg": "#44475A70",
-            "bgLighter": "#424450",
-            "bgLight": "#343746",
-            "bgDark": "#21222C",
-            "bgDarker": "#191A21",
-            "purpleDarker": "#574473",
-            "selection": "#44475A",
-            "menuHover": "#3A434D"
-        }
     },
     "colors": {
         "activityBar.background": "#232634",
@@ -123,7 +74,7 @@
         "editorWhitespace.foreground": "#424450",
         "editorHoverWidget.highlightForeground": "#44475A",
         "editorIndentGuide.background": "#42445075",
-        "editorIndentGuide.activeBackground": "#6273a475",
+        "editorIndentGuide.activeBackground": "#6273A475",
         "editorInlayHint.foreground": "#6272A4",
         "editorInlayHint.background": "#00000000",
         "editorInlayHint.typeForeground": "#6272A4",
@@ -369,7 +320,7 @@
             "scope": [
                 "string.quoted.docstring",
                 "string.quoted.docstring punctuation.definition.string.begin",
-                "string.quoted.docstring punctuation.definition.string.end",
+                "string.quoted.docstring punctuation.definition.string.end"
             ],
             "settings": {
                 "foreground": "#6272A4"
@@ -1385,7 +1336,7 @@
         {
             "name": "Dart Primitive storage types",
             "scope": [
-                "source.dart storage.type.primitive.dart",
+                "source.dart storage.type.primitive.dart"
             ],
             "settings": {
                 "foreground": "#FF79C6"
@@ -1981,5 +1932,7 @@
                 "foreground": "#50FA7B"
             }
         }
-    ]
+    ],
+    "name": "Sweet Dracula V2",
+    "type": "dark"
 }
